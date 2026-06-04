@@ -1,0 +1,21 @@
+FLIGHTS
+F101,Lahore,Karachi,10-06-2026,120,120
+F102,Karachi,Islamabad,11-06-2026,100,100
+F103,Lahore,Peshawar,12-06-2026,80,80
+F104,Islamabad,Quetta,13-06-2026,90,90
+F105,Karachi,Multan,14-06-2026,110,110
+F106,Lahore,Skardu,15-06-2026,70,70
+F107,Islamabad,Gilgit,16-06-2026,60,60
+F108,Karachi,Faisalabad,17-06-2026,95,95
+F109,Lahore,Sialkot,18-06-2026,75,75
+F110,Islamabad,Karachi,19-06-2026,130,130
+
+PASSENGERS
+101,Ali Khan,P12345
+102,Sara Ahad,P12346
+103,Usmama Ali,P12347
+104,Ayesha Noor,P12348
+105,Hassan Raza,P12349
+106,Maryam Khan,P12350
+107,Ahmed Bilal,P12351
+108,Zainab Fatima,P12352
